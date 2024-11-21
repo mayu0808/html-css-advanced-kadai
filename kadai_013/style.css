@@ -58,6 +58,13 @@ PC用のスタイル
   #nav-pc>a:active {
     color: #0d0d0d;
   }
+
+  #nav-sp {
+    display: none;
+  }
+ #menu-sp {
+   display: none;
+  }
 }
 /*================
 sp用のスタイル 
